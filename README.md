@@ -28,3 +28,12 @@ this is second line.
 This line contains **bold** , *italic* and ***Bold Italic***.
 
 ![image not show](light_picture.jpg)
+
+[My profile](https://github.com/Kiran-1006/)
+
+### Table -
+
+|col-1|col-2|col-3|
+|---|---|---|
+|name| Kiran|
+
