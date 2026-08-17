@@ -24,3 +24,7 @@ my name is `Kiran`.
 this is first line.
 this is second line.
 ``` 
+
+This line contains **bold** , *italic* and ***Bold Italic***.
+
+![image not show](light_picture.jpg)
