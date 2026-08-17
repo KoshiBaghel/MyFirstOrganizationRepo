@@ -37,3 +37,9 @@ This line contains **bold** , *italic* and ***Bold Italic***.
 |---|---|---|
 |name| Kiran|
 
+This is ~~part~~ using this (~~).
+
+emoji -:grinning:
+
+[More Writting details](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
